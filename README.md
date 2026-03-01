@@ -41,6 +41,7 @@ Aqui você encontra meus códigos, projetos e outras coisas.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo" />
 </div>
+
 ---
 
 ### Contribuições:
