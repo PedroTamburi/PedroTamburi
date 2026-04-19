@@ -3,7 +3,7 @@
 Aqui você encontra meus códigos, projetos e outras coisas. 
 
 <p align="center">
-  <img src="https://media.tenor.com/7vYI2yK2m7GA1AAAAC/adventure-time-jake-the-dog.gif" width="300" alt="Jake the Dog tired">
+  <img src="jake.gif" width="300">
 </p>
 
 ---
