@@ -2,13 +2,21 @@
 
 Aqui você encontra meus códigos, projetos e outras coisas. 
 
+<p align="center">
+  <img src="https://media.tenor.com/7vYI2yK2m7GA1AAAAC/adventure-time-jake-the-dog.gif" width="300" alt="Jake the Dog tired">
+</p>
+
 ---
 
 ### Conecte-se comigo:
 <div align="left">
-  <a href="https://www.linkedin.com/in/pedro-tamburi/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
-  <a href="https://www.instagram.com/pedro_tamburi/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" /></a>
-  <a href="mailto:pedroh.tamburi@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /></a>
+
+<a href="https://www.linkedin.com/in/pedro-tamburi/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"  height="40" alt="linkedin logo" /></a>
+<img width="12" />
+<a href="https://www.instagram.com/pedro_tamburi/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"  height="40" alt="instagram logo" /></a>
+<img width="12" />
+<a href="mailto:pedroh.tamburi@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"  height="40" alt="gmail logo" /></a>
+
 </div>
 
 ---
